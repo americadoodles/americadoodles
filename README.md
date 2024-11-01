@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **Crypto, Game, NFTs, Web3**
 
-- 📫 How to reach me **dpaul.guru@gmail.com**
-
 - ⚡ Fun fact **I love Gaming! Innovation!**
 
 ## 🌐 Languages and Tools :
