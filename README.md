@@ -1,25 +1,7 @@
 <h1 align="center"> America Doodles <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-
-## 💡 Connect with me :
-<p align="left"> 
-   <a href="mailto:dpaul.guru@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpaul.guru@gmail.com" />
-  </a>
-</p>
-
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h3> 🧑 I am driven by a passion for innovation!</h3>
-
-- 🔭 I’m currently working on [ExpertScreenShare](https://www.expertscreenshare.com/)
-
-- 🌱 I’m currently learning **Everything 🤣**
-
-- 💬 Ask me about **Crypto, Game, NFTs, Web3**
-
-- ⚡ Fun fact **I love Gaming! Innovation!**
 
 ## 🌐 Languages and Tools :
 <p align="left">
